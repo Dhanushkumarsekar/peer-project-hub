@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/peer-project-hub/static/css/main.55fa1ad4.css",
+    "main.js": "/peer-project-hub/static/js/main.d05617b7.js",
+    "index.html": "/peer-project-hub/index.html",
+    "main.55fa1ad4.css.map": "/peer-project-hub/static/css/main.55fa1ad4.css.map",
+    "main.d05617b7.js.map": "/peer-project-hub/static/js/main.d05617b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55fa1ad4.css",
+    "static/js/main.d05617b7.js"
+  ]
+}
